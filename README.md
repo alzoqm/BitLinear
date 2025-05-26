@@ -101,8 +101,3 @@ Performs bit-wise matrix multiplication:
 * To rebuild after changes: `python setup.py build_ext --inplace`
 * Add tests under a `tests/` directory and run via `pytest`.
 
----
-
-# License
-
-MIT License
